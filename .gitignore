@@ -1,4 +1,5 @@
 src/cohere_api.py
+src/log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
